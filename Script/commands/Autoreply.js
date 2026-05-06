@@ -8,7 +8,7 @@ module.exports.config = {
   name: "autoreplybot",
   version: "2.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "𝓕𝓐𝓗𝓘𝓜",
   usePrefix: false,
   commandCategory: "Chat",
   cooldowns: 0
